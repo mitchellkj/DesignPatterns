@@ -1,3 +1,0 @@
-A simple test file
-By design, a blockchain is resistant to modification of the data.
-
